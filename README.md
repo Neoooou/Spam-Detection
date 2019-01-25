@@ -1,12 +1,12 @@
 # 垃圾短信分类
-##介绍
+## 介绍
     二类分类问题， 垃圾邮件认定为正类Positive， 正常则为负类Negative
-##涉及工具包
+## 涉及工具包
     pip install keras
     pip install sklearn
     pip install tensorflow
     pip install flask
-##步骤
+## 步骤
 1. 特征挖掘
     - 数据清理
         - 过滤标点符号
@@ -53,7 +53,7 @@
     
         precision * recall * 2 / (precision + recall)
 
-##测试
+## 测试
 
     运行命令：
         set FLASK_APP=Ser.py
