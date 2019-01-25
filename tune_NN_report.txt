@@ -1,0 +1,9 @@
+Test accuracy: 0.9809417040358744
+Evalutation of best performing model:
+
+  32/1115 [..............................] - ETA: 0s
+ 704/1115 [=================>............] - ETA: 0s
+1115/1115 [==============================] - 0s 80us/step
+[0.2043869101888188, 0.9766816143497757]
+Best performing model chosen hyper-parameters:
+{'Dense': 1, 'Dense_1': 2, 'Dropout': 0.646400242267027, 'Dropout_1': 0.6920257899742139, 'alpha': 0.11162758792630445, 'alpha_1': 0.2613309282324268, 'batch_size': 0, 'epochs': 3, 'optimizer': 1}
